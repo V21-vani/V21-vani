@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER: High-contrast monochrome manga/minimalist gif loop -->
-<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/your-banner.gif" width="100%" alt="Header Banner"/>
+<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/banner_2.gif" width="100%" alt="Header Banner"/>
 
 <br/>
 <br/>
@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_9.png" align="right" width="120px" alt="Sleeping Pixel Cat"/>
+<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_9.jfif" align="right" width="120px" alt="Sleeping Pixel Cat"/>
 
 ### 🪐 Know About Me
 
@@ -29,7 +29,7 @@ I am a passionate engineering student focused on building complex intelligence e
 
 ---
 
-<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_2.png" align="right" width="100px" alt="Press Start Asset"/>
+<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_2.jfif" align="right" width="100px" alt="Press Start Asset"/>
 
 ### ⚡ Top Projects
 
@@ -42,7 +42,7 @@ I am a passionate engineering student focused on building complex intelligence e
 
 ---
 
-<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/terminal_asset.png" align="right" width="110px" alt="Retro Window Asset"/>
+<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_33.gif" align="right" width="110px" alt="Retro Window Asset"/>
 
 ### 🛠️ Technologies
 
@@ -66,7 +66,7 @@ I am a passionate engineering student focused on building complex intelligence e
 <div align="center">
   <br/>
   <br/>
-  <img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_1.png" width="140px" alt="Good Bye Frame"/>
+  <img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_1.gif" width="140px" alt="Good Bye Frame"/>
   <br/>
-  <code>// EOF — TERMINAL CLOSED</code>
+ 
 </div>
