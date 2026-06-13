@@ -22,7 +22,7 @@
 
 <br/>
 
-Hi, I'm Vani — an Information Science student who's genuinely passionate about CS, not just as a degree but as a subject. I'm driven by the need to build, the hunger to learn, and the obsession with getting better at both. Cool projects, real problems, and a lot of trial and error — that's where I live.
+Hi, I'm Vani, an Information Science student who's genuinely passionate about CS, not just as a degree but as a subject. I'm driven by the need to build, the hunger to learn, and the obsession with getting better at both. Cool projects, real problems, and a lot of trial and error, that's where I live.
 
 - 🔭 Currently building in the AI security and LLM eval space
 - 🛡️ Researching prompt injection, agentic betrayal, and adversarial testing
@@ -48,7 +48,7 @@ Hi, I'm Vani — an Information Science student who's genuinely passionate about
 
 <div align="center"><h3>🏆 Hackathons</h3></div>
 
-- **META × SCALER OPENENV HACKATHON** ── Built and deployed WRAITH 48hrs
+- **META × SCALER OPENENV HACKATHON** ── Built and deployed WRAITH in 48hrs
 - **IEEE NEXTGEN CONVERGENCE HACKATHON 2026**
 - **CODE DETECTIVE : BUG BOUNTY 2026**
 
