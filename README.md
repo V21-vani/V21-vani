@@ -1,72 +1,75 @@
 <div align="center">
-
-<!-- BANNER: High-contrast monochrome manga/minimalist gif loop -->
 <img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/banner_2.gif" width="100%" alt="Header Banner"/>
+<br/><br/>
+
+# Welcome to Vani's GitHub
+`< / >`
+
+*"Sic mundus creatus est."*
 
 <br/>
-<br/>
 
-# Hey there! I'm Vani
-
-*"Don't compromise on reality; force reality to match your design."*
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=night+owl.+runs+on+curiosity%2C+not+caffeine.;somewhere+between+a+bug+and+a+feature;ship+it.+break+it.+figure+out+why.+repeat.;building+at+the+edge+of+what+makes+sense)](https://git.io/typing-svg)
 
 ---
-
 </div>
 
-<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_9.jfif" align="right" width="120px" alt="Sleeping Pixel Cat"/>
+<div align="center"><h3>🪐 About Me</h3></div>
 
-### 🪐 Know About Me
+Hi, I'm Vani — an Information Science student who's genuinely passionate about CS, not just as a degree but as a subject. I'm driven by the need to build, the hunger to learn, and the obsession with getting better at both. Cool projects, real problems, and a lot of trial and error — that's where I live.
 
-I am a passionate engineering student focused on building complex intelligence environments, runtime execution security, and core architectures. I lean toward execution-driven codebases, diving into open-source ecosystems, and engineering solutions from the ground up.
-
-*   **Current Vector:** Preparing for **Google Summer of Code 2026** by contributing to **Catrobat**.
-*   **The Mission:** Exploring Catrobat’s visual programming compilation mechanics, debugging core architectures, and writing patches—even when PRs sit in the review pipeline.
-
-<br clear="right"/>
+- 🔭 Currently building in the AI security and LLM eval space
+- 🛡️ Researching prompt injection, agentic betrayal, and adversarial testing
+- 🌱 GSoC 2026 applicant — contributed to **Catrobat/Catroid** as part of the application
+- 📍 Bengaluru, India
 
 ---
 
-<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_2.jfif" align="right" width="100px" alt="Press Start Asset"/>
+<div align="center"><h3>⚡ Projects</h3></div>
 
-### ⚡ Top Projects
-
-*   **👾 WRAITH** ── RL-based adaptive Boss AI using Qwen2.5-1.5B and GRPO for real-time movement pattern exploitation.
-*   **🛡️ AEGIS** ── Runtime protection infrastructure acting as an active security guardrail for autonomous AI coding assistants.
-*   **🚀 ELEVATE** ── An intelligent placement readiness platform designed around automated skill-mapping and benchmarks.
-*   **🌌 SPECTRA** ── High-performance interface and visual architecture framework engineered for low-latency rendering pipelines.
-
-<br clear="right"/>
+- **👾 WRAITH** ── RL-based adaptive boss AI trained with GRPO on Qwen2.5-1.5B. Enemy that actually learns your patterns.
+- **🛡️ AEGIS** ── Prompt injection & agentic betrayal benchmark. Simulates poisoned DevOps environments to stress-test AI agent integrity.
+- **🚀 ELEVATE** ── AI-driven placement prep platform with adaptive skill assessment, voice confidence analysis, and sprint generation.
+- **📊 SPECTRA** ── Unit test analysis tool with live WebSocket terminal output, coverage dashboards, and visual test reporting.
 
 ---
 
-<img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_33.gif" align="right" width="110px" alt="Retro Window Asset"/>
+<div align="center"><h3>🏆 Hackathons</h3></div>
 
-### 🛠️ Technologies
-
-*   **AI & Systems:** `Python` `PyTorch` `GRPO` `LLM Safety` `C` `Java`
-*   **Web Engine:** `React` `Next.js` `Node.js` `Express` `MongoDB`
-
-<br clear="right"/>
+- **META × SCALER OPENENV HACKATHON** ── Built and deployed WRAITH + AEGIS under 48hrs
+- **IEEE NEXTGEN CONVERGENCE HACKATHON 2026**
+- **CODE DETECTIVE : BUG BOUNTY 2026**
 
 ---
 
-### 📊 Statistics
+<div align="center"><h3>🛠️ Stack</h3></div>
+
+- **AI / ML:** `Python` `FastAPI` `PyTorch` `LangChain` `GRPO` `RAG`
+- **Security:** `Prompt Injection` `LLM Red Teaming` `Adversarial Eval`
+- **Web:** `React` `Next.js` `Node.js` `MongoDB`
+
+---
+
+<div align="center"><h3>📊 Statistics</h3></div>
 
 <div align="center">
-<br/>
 
-<!-- Single, wide, borderless component that handles native resizing perfectly -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=V21-vani&theme=github-dark-teal&hide_border=true&bg_color=0D1117&color=ffffff" width="100%" alt="Activity Graph"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=V21-vani&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
-  <br/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/V21-vani/V21-vani/main/assets/download_1.gif" width="140px" alt="Good Bye Frame"/>
-  <br/>
- 
+<img src="https://github.com/V21-vani/V21-vani/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=V21-vani&theme=github-dark-teal&hide_border=true&bg_color=0D1117&color=ffffff" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+*good bye...*
+
 </div>
